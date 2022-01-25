@@ -1,5 +1,4 @@
 # WebMobile-2022Spring
-Lectures
 
 
 # Team - 1
